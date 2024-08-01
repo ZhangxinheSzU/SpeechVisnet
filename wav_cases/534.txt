@@ -1,0 +1,1 @@
+Show the position of players and the corresponding number of players Visualize by bar chart, rank from high to low by the total number.

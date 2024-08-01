@@ -1,0 +1,1 @@
+Group and count brand for each camera lens using a bar chart, list in desc by the total number.

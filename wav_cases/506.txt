@@ -1,0 +1,1 @@
+What are card ids, customer ids, card types, and card numbers for each customer card?, and I want to order x axis in asc order.

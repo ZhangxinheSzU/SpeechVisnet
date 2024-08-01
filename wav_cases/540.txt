@@ -1,0 +1,1 @@
+List the name and the number of stations for all the cities that have at least 15 stations Show bar chart, and list in desc by the Y.

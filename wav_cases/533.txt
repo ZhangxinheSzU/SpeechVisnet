@@ -1,0 +1,1 @@
+How many stadiums does each country have Show bar chart, and I want to display from low to high by the Country.

@@ -1,0 +1,1 @@
+Return a histogram on how many matches were played in each year?

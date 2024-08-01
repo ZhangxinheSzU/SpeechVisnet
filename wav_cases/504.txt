@@ -1,0 +1,1 @@
+Show the average of id from each nationality, I want to display in ascending by the Y.

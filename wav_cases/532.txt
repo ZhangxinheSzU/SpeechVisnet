@@ -1,0 +1,1 @@
+Bar chart x axis away team y axis the number of away team, and show by the X-axis in desc.

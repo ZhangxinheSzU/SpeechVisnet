@@ -1,0 +1,1 @@
+What is the lowest student GPA for every department? Return a bar chart, show in asc by the y axis.

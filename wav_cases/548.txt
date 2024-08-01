@@ -1,0 +1,1 @@
+Draw a bar chart for how many people are there of each nationality?, and could you display from high to low by the x-axis?

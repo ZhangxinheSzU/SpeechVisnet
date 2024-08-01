@@ -1,0 +1,1 @@
+Show the total number from each document type code, could you show by the X-axis in desc please?

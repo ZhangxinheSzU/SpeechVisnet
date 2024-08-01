@@ -1,0 +1,1 @@
+Show the number of assets and group by asset make in a bar chart, and display by the asset_make in ascending.

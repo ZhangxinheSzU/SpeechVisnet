@@ -1,0 +1,1 @@
+What are different nationalities of people and the corresponding number of people from each nation Visualize by bar chart, order by the bar in descending.

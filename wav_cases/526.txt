@@ -1,0 +1,1 @@
+Stacked bar chart of how many away team for with each Home_team in each away team, and sort from low to high by the bars.

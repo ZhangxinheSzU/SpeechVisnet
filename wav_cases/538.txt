@@ -1,0 +1,1 @@
+I want to see trend the number of season over season by Home_team, and show x-axis in ascending order.

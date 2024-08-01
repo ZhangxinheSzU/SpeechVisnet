@@ -1,0 +1,1 @@
+Give me a bar chart for the total number of each position, and could you order by the x-axis from high to low?

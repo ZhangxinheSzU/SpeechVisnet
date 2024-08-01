@@ -1,0 +1,1 @@
+List each donator name and the amount of endowment in descending order of the amount of endowment by a bar chart.

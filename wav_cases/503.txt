@@ -1,0 +1,1 @@
+How many sections does each course has Visualize by bar chart, could you display in ascending by the X-axis please?

@@ -1,0 +1,1 @@
+Bar chart x axis state y axis the number of state, and sort by the how many state in descending.

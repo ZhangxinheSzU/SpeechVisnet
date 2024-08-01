@@ -1,0 +1,1 @@
+Bar chart x axis dept code y axis minimal stu gpa, could you show by the DEPT_CODE in desc?

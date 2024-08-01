@@ -1,0 +1,1 @@
+Draw a bar chart of dept code versus the total number, could you list in asc by the Y please?

@@ -1,0 +1,1 @@
+Draw a bar chart of asset make versus the number of asset make, display by the x axis from high to low please.

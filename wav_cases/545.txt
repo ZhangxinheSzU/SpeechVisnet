@@ -1,0 +1,1 @@
+A bar chart for what are the number of the record companies of orchestras in descending order of years in which they were founded?

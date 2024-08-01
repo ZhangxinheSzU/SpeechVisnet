@@ -1,0 +1,1 @@
+Show me about the distribution of name and meter_100 in a bar chart, and display y axis in asc order.

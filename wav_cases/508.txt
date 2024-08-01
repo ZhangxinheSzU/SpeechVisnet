@@ -1,0 +1,1 @@
+How many people are there of each nationality. Visualize by bar chart.

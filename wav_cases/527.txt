@@ -1,0 +1,1 @@
+Show minimal enr from each state, could you display by the bar in desc?

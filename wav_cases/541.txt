@@ -1,0 +1,1 @@
+Bar graph to show the total number from different party
